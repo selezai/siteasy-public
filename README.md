@@ -2,9 +2,9 @@
 
 **A production-ready marketplace platform for South Africa's pet-sitting industry**
 
-This is a **sanitized, public version** of the SitEasy codebase, created to demonstrate code quality, architecture patterns, and technical skills for employment purposes. Business logic and proprietary features have been replaced with generic implementations.
+**Live Site:** [siteasy.co.za](https://siteasy.co.za) | **Case Study:** [github.com/selezai/siteasy-case-study](https://github.com/selezai/siteasy-case-study)
 
-**Full case study:** [github.com/selezai/siteasy-case-study](https://github.com/selezai/siteasy-case-study)
+This is a **sanitized, public version** of the SitEasy codebase, created to demonstrate code quality, architecture patterns, and technical skills for employment purposes. Business logic and proprietary features have been replaced with generic implementations.
 
 ---
 
